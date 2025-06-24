@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kunaljadhav007" alt="kunaljadhav007" /></a> </p>
 
-- 🌱 I’m currently learning **DataScienc & GenAI**
+- 🌱 I’m currently learning **DataScience & GenAI**
 
 - 💬 Ask me about **I'm a passionate B.Tech student at Vishwakarma Institute of Technology, Pune, with hands-on experience in **AI-powered systems**, **IoT-based automation**, and **data visualization**. I love building solutions that bridge the gap between hardware and software — especially when it helps people and industries thrive in the era of Industry 4.0. Currently exploring the intersection of **GenAI**, **Edge AI**, and **Human-Centered Tech** — one project at a time.**
 
